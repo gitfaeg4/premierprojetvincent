@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+*.Rdata
+.env
+password_vincent.txt
+mot_dep_passe.txt
+password.R
